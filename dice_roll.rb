@@ -4,4 +4,5 @@
 
 def roll
   # code goes here
+  puts 1..6
 end
