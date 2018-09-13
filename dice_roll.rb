@@ -4,5 +4,5 @@
 
 def roll
   # code goes here
-  print 1..6
+   1..6
 end
